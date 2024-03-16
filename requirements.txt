@@ -1,0 +1,13 @@
+dxpy>=0.368.1
+torch==2.1.0
+torchvision==0.16.0,
+numpy==1.23.5
+scikit-learn==1.2.2
+pandas==2.1.2
+matplotlib==3.8.1
+lightgbm==4.3.0
+seaborn==0.13.2
+tensorflow==2.12.0
+xgboost==2.0.3
+scipy==1.11.3
+tqdm==4.66.1
