@@ -1,1 +1,5 @@
 # ADGraph
+
+## Abstract
+
+Alzheimer's disease (AD) manifests with varying progression rates across individuals, necessitating the understanding of their intricate patterns of cognition decline that could contribute to effective strategies for risk monitoring. In this study, we propose an innovative interpretable population graph network framework for identifying rapid progressors of AD by utilizing patient information from electronic health-related records in the UK Biobank. To achieve this, we first created a patient similarity graph, in which each AD patient is represented as a node; and an edge is established by patient clinical characteristics distance. We used graph neural networks (GNNs) to predict rapid progressors of AD and created a GNN Explainer with SHAP analysis for interpretability. The proposed model demonstrates superior predictive performance over the existing benchmark approaches. We also revealed several clinical features significantly associated with the prediction, which can be used to aid in effective interventions for the progression of AD patients.
